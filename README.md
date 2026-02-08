@@ -7,13 +7,13 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
   <meta name="description" content="SAKTI111 hadir sebagai pilihan terbaik bagi pemain yang mencari pengalaman bermain aman, cepat, dan seru.">
   <meta name="robots" content="index, follow">
-  <link rel="icon" href="https://sakti111.github.io/favicon.png" type="image/png">
+  <link rel="icon" href="https://s12.gifyu.com/images/bkJNC.png" type="image/png">
   <meta name="google-site-verification" content="kTto6hgwJikT_3-8-PpF-0bBHvso1d3m3WTqL5eJK2Y" />
   
   <!-- Open Graph -->
   <meta property="og:title" content="SAKTI111 Platform Gaming Rekomendasi Tahun 2026" />
   <meta property="og:description" content="SAKTI111 hadir sebagai pilihan terbaik bagi pemain yang mencari pengalaman bermain aman, cepat, dan seru." />
-  <meta property="og:image" content="https://sakti111.github.io/banner.png" />
+  <meta property="og:image" content="https://s12.gifyu.com/images/bkJN4.png" />
   <meta property="og:url" content="https://sakti111.github.io/" />
   <meta property="og:type" content="website" />
 
@@ -21,7 +21,7 @@
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="SAKTI111 Platform Gaming Rekomendasi Tahun 2026" />
   <meta name="twitter:description" content="SAKTI111 hadir sebagai pilihan terbaik bagi pemain yang mencari pengalaman bermain aman, cepat, dan seru." />
-  <meta name="twitter:image" content="https://sakti111.github.io/banner.png" />
+  <meta name="twitter:image" content="https://s12.gifyu.com/images/bkJN4.png" />
 
   <!-- JSON-LD Structured Data -->
   <script type="application/ld+json">
@@ -30,7 +30,7 @@
     "@type": "Organization",
     "name": "SAKTI111",
     "url": "https://sakti111.github.io/",
-    "logo": "https://sakti111.github.io/sakti111.png",
+    "logo": "https://s12.gifyu.com/images/bkJNR.png",
     "sameAs": ["https://sakti111.github.io/"]
   }
   </script>
@@ -134,7 +134,7 @@
 <body>
 
   <header>
-    <amp-img src="https://sakti111.github.io/sakti111.png" width="160" height="80" layout="fixed" alt="SAKTI111 Logo"></amp-img>
+    <amp-img src="https://s12.gifyu.com/images/bkJNR.png" width="160" height="80" layout="fixed" alt="SAKTI111 Logo"></amp-img>
   </header>
 
   <!-- Banner dengan animasi -->
@@ -160,7 +160,7 @@
       </script>
     </amp-animation>
     <div class="banner-container">
-      <amp-img src="https://sakti111.github.io/banner.png"
+      <amp-img src="https://s12.gifyu.com/images/bkJN4.png"
                width="600"
                height="600"
                layout="responsive"
@@ -198,7 +198,7 @@
     <p>
       Di sini kamu bebas beraktivitas, mengumpulkan reward, dan menikmati fitur eksklusif yang tidak ditawarkan platform lainnya. Tidak perlu data pribadi—cukup aktif, dan sistem akan bekerja untukmu.
     </p>
-    <a href="https://shortime.site/link" class="btn-join" target="_blank" rel="noopener">Gabung Sekarang</a>
+    <a href="https://pro-url.com/ini-akungacor" class="btn-join" target="_blank" rel="noopener">Gabung Sekarang</a>
   </div>
 
   <footer>
