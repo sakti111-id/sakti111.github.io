@@ -10,6 +10,7 @@
   <meta name="robots" content="index, follow">
   <link rel="icon" href="https://s12.gifyu.com/images/bkJNC.png" type="image/png">
   <meta name="google-site-verification" content="kTto6hgwJikT_3-8-PpF-0bBHvso1d3m3WTqL5eJK2Y" />
+  <meta name="google-site-verification" content="kTto6hgwJikT_3-8-PpF-0bBHvso1d3m3WTqL5eJK2Y" />
   
   <!-- Open Graph -->
   <meta property="og:title" content="SAKTI111 Platform Gaming Rekomendasi Tahun 2026" />
